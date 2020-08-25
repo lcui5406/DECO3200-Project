@@ -1,1 +1,7 @@
 This is the start of our project.
+We choose COVID-19 currently
+ideation 1 : paper text form -> true or false  false to explain using visualization / true to give some bounce
+ideation 2 : make it into a game
+ideation 3 : maze: water is for you to put out the fire
+                   to get the water -> answer the questions if right you will get one 
+            walk out the maze will give people some covid-19 help kit
